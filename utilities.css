@@ -1,0 +1,25 @@
+.is-1by1  {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+}
+.is-4by3  {
+    position: relative;
+    width: 100%;
+    padding-top: 75%;
+}
+.is-3by2  {
+    position: relative;
+    width: 100%;
+    padding-top: 66.66%;
+}
+.is-8by5  {
+    position: relative;
+    width: 100%;
+    padding-top: 62.5%;
+}
+.is-16by9 {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+}
